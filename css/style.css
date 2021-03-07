@@ -13,7 +13,7 @@ main {
     font-size: 20px;
 }
 nav ul a, nav .brand-logo {
-    color: rgb(255, 255, 255);
+    color: wheat;
 }
 a.anchor {
     display: block;
